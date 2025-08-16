@@ -22,9 +22,12 @@ streamlit run app.py
 
 ## Dataset
 
-We use the Kaggle dataset `patrickb1912/ipl-complete-dataset-20082020` which contains:
+We use the Kaggle dataset `ipl-complete-dataset-2008-2024` which contains:
 - `matches.csv` → match-level details (season, teams, venue, toss, winner, etc.)
-- `deliveries.csv` → ball-by-ball (not used here).
+- `deliveries.csv` → ball-by-ball .
+
+Download the datasets.zip file and extract to your project root
 
 The training script automatically downloads and uses `matches.csv`.
+
 
