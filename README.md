@@ -1,7 +1,7 @@
-# IPL Winner Predictor (KaggleHub + Streamlit)
+# IPL Winner Predictor
 
 This project trains a machine learning model to predict IPL match winners using the Kaggle dataset
-**patrickb1912/ipl-complete-dataset-20082020** via [kagglehub](https://github.com/Kaggle/kagglehub).
+**ipl-complete-dataset-2008-2024** via [kagglehub](https://github.com/Kaggle/kagglehub).
 
 ## Setup
 
@@ -28,5 +28,3 @@ We use the Kaggle dataset `patrickb1912/ipl-complete-dataset-20082020` which con
 
 The training script automatically downloads and uses `matches.csv`.
 
-## License
-MIT
